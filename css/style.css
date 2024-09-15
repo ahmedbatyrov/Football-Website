@@ -11,6 +11,7 @@ font-family: 'Poppins', sans-serif;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    list-style-type: none;
 }
 .container{
     width: 100%;
@@ -129,7 +130,6 @@ ul li button a{
     grid-gap: 15px;
 }
 .fm2 .fm2_1 span{
-    /* position: absolute; */
     margin: 5px;
 }
 .fm2 .fm2_1 span a{
@@ -140,7 +140,6 @@ ul li button a{
     font-size: 12px;
 }
 .fm2 .fm2_1 p{
-    /* position: absolute; */
     margin-left: 90px;
     margin-top: -30px;
     color: white;
@@ -194,14 +193,12 @@ ul li button a{
     padding: 10px;
     width: 750px;
     height: 260px;
-    /* background-color: darkgray; */
     margin-left: 500px;
     margin-top: 15px;
     display: flex;
     border-radius: 10px;
 }
 .box1{
-    /* position: absolute; */
     width: 245px;
     height: 255px;
     padding: 5px;
@@ -243,7 +240,6 @@ ul li button a{
     margin-top: 300px;
 }
 .video span{
-    /* position: absolute; */
     margin-top: 5px;
     padding: 5px;
     display: flex;
